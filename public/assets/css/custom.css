@@ -1,0 +1,20 @@
+/* Starts Form Max Width 767px */
+.contact__bgc{
+    /* Starts Form Contact Section  */
+        background: linear-gradient(180deg, #fff 50%, #212935 50%);
+    }   
+/* Starts Form Min Width 768 px  */
+@media only screen and (min-width:768px){
+    /* Starts Form Contact Section  */
+    .contact__bgc{
+        background: linear-gradient(90deg, #212935 50%, #ffffff 50%);
+    }   
+}
+/* Starts Form Min Width 1024 px  */
+@media only screen and (min-width:1024px){ 
+    /* Starts Form Contact Section  */
+ .contact__bgc{
+    background: linear-gradient(90deg, #212935 58%, #ffffff 50%);
+}   
+}
+
